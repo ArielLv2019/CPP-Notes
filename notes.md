@@ -19,7 +19,6 @@
 ## RAII
   + https://www.cnblogs.com/jiangbin/p/6986511.html
   
-  
 ##  overload（重载，非类） 、override（覆盖）、overwrite（重写）
   + https://www.cnblogs.com/shenlanzifa/p/5288709.html
 
@@ -33,4 +32,7 @@
 ## 默认参数值
   + https://www.cnblogs.com/jason2013/articles/4375771.html
   
-## static_cast
+## static_cast，dynamic_cast, const_cast, reinterpret_cast
+
+## 进程和线程
+  + https://www.jianshu.com/p/2dc01727be45
