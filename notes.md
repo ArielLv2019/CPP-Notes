@@ -36,3 +36,6 @@
 
 ## 进程和线程
   + https://www.jianshu.com/p/2dc01727be45
+
+## 堆
+  + https://www.cnblogs.com/sxkgeek/p/9662491.html
