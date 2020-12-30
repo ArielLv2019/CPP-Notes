@@ -39,6 +39,9 @@
 
 ## 堆
   + https://www.cnblogs.com/sxkgeek/p/9662491.html
+
+## 单例模式
+https://www.cnblogs.com/sunchaothu/p/10389842.html
   
 ## 类定义的各种关键字
   + inline:（定义）可以在类的内部把inline作为声明的一部分显式地声明成员函数，也可以在类的外部用inline关键字修饰函数的定义。可以同时在声明和定义的地方说明inline，但是最好只在类外部定义的地方说明inline，这样做使类更容易理解。
