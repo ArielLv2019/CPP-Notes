@@ -5,6 +5,7 @@
 ## 析构函数
   + 为虚函数： https://www.cnblogs.com/icmzn/p/9165239.html
   + 抛出异常： http://cnblogs.com/KevinSong/p/3323372.html
+  + 抛出异常： https://zhuanlan.zhihu.com/p/65454580
   
 ## 构造函数
   + 抛出异常：https://blog.csdn.net/dbbaq24022/article/details/101331493
