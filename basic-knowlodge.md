@@ -9,6 +9,7 @@
   
 ## 构造函数
   + 抛出异常：https://blog.csdn.net/dbbaq24022/article/details/101331493
+  + 是否可以为虚函数：https://blog.csdn.net/lmsnju/article/details/5386617?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1331978.12431.16186453632358255&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
 
 ## 虚函数
   + 虚函数表： https://blog.csdn.net/primeprime/article/details/80776625
