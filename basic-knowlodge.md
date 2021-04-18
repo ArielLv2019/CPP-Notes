@@ -15,7 +15,9 @@
   + 抛出异常：https://blog.csdn.net/dbbaq24022/article/details/101331493
   + 是否可以为虚函数：https://blog.csdn.net/lmsnju/article/details/5386617?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1331978.12431.16186453632358255&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
   + 为什么构造与析构函数不能调用虚函数： https://blog.csdn.net/linpengbin/article/details/51560276
-
+## copy构造函数
+  + http://c.biancheng.net/view/151.html
+  + 
 ## 虚函数
   + 虚函数表： https://blog.csdn.net/primeprime/article/details/80776625
   + 不能为虚的几种函数：普通函数、友元函数、构造函数、静态成员函数、inline内联函数
