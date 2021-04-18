@@ -1,6 +1,10 @@
 ## public, private, protect
   + https://blog.csdn.net/a1342504010/article/details/23394319
   + https://blog.csdn.net/ycf74514/article/details/49053041
+
+## 友元类 && 友元函数
+  + http://c.biancheng.net/view/169.html
+  + https://blog.csdn.net/c_base_jin/article/details/75206177
  
 ## 析构函数
   + 为虚函数： https://www.cnblogs.com/icmzn/p/9165239.html
