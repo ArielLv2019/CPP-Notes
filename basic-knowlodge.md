@@ -63,7 +63,8 @@
 ## C++11多线程
   + https://zhuanlan.zhihu.com/p/194198073
 
-## RTTI
+## RTTI (Run Time Type Information)
+  + https://www.jb51.net/article/206968.htm
   + https://www.jb51.net/article/123252.htm
 
 ## 类定义的各种关键字
