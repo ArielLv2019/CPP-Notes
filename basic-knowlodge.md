@@ -38,6 +38,10 @@
 ## static_cast，dynamic_cast, const_cast, reinterpret_cast
   + https://blog.csdn.net/u014624623/article/details/79837849
 
+## 不可复制类 && 只能在堆 || 栈上创建的类 && 不可被继承的类
+  + https://blog.csdn.net/weixin_45818891/article/details/115288297?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_v2~rank_aggregation-1-115288297.pc_agg_rank_aggregation&utm_term=c%2B%2B%E7%B1%BB+%E4%B8%8D%E8%83%BD%E5%9C%A8%E5%A0%86%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1&spm=1000.2123.3001.4430
+  + https://blog.csdn.net/qq_42837885/article/details/101156049?utm_term=c++%E7%B1%BB%E4%B8%8D%E8%83%BD%E5%9C%A8%E5%A0%86%E4%B8%8A%E5%88%9B%E5%BB%BA%E5%AF%B9%E8%B1%A1&utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~all~sobaiduweb~default-1-101156049&spm=3001.4430
+
 ## 进程和线程
   + https://www.jianshu.com/p/2dc01727be45
   + https://linux.cn/article-10826-1.html
