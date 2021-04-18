@@ -63,6 +63,9 @@
 ## C++11多线程
   + https://zhuanlan.zhihu.com/p/194198073
 
+## RTTI
+  + https://www.jb51.net/article/123252.htm
+
 ## 类定义的各种关键字
   + inline:（定义）可以在类的内部把inline作为声明的一部分显式地声明成员函数，也可以在类的外部用inline关键字修饰函数的定义。可以同时在声明和定义的地方说明inline，但是最好只在类外部定义的地方说明inline，这样做使类更容易理解。
   + explicit:（声明）只能在类内声明构造函数时使用explicit关键字，在类外部定义时不应重复。
