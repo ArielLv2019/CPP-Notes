@@ -24,6 +24,7 @@
   
 ## 内联inline函数
   + https://www.cnblogs.com/fnlingnzb-learner/p/6423917.html
+  + https://blog.csdn.net/shltsh/article/details/45999947?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.control&dist_request_id=1331988.179.16187337877635457&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EOPENSEARCH%7Edefault-1.control
   
 ## RAII
   + https://www.cnblogs.com/jiangbin/p/6986511.html
