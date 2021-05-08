@@ -14,7 +14,9 @@
 ## 构造函数
   + 抛出异常：https://blog.csdn.net/dbbaq24022/article/details/101331493
   + 是否可以为虚函数：https://blog.csdn.net/lmsnju/article/details/5386617?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&dist_request_id=1331978.12431.16186453632358255&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control
-  + 为什么构造与析构函数不能调用虚函数： https://blog.csdn.net/linpengbin/article/details/51560276
+  + 为什么构造与析构函数不能调用虚函数：
+  + https://www.huaweicloud.com/articles/ce10c517a25e175c5ab5d0c751c0319c.html#:~:text=%EF%BC%881%EF%BC%89%E4%B8%8D%E8%A6%81%E5%9C%A8%E6%9E%84%E9%80%A0%E5%87%BD%E6%95%B0,%E7%B1%BB%E7%9A%84%E6%9E%90%E6%9E%84%E5%87%BD%E6%95%B0%E3%80%82 
+  + https://blog.csdn.net/linpengbin/article/details/51560276
 ## copy构造函数
   + http://c.biancheng.net/view/151.html
   + 
