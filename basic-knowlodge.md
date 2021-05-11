@@ -45,6 +45,7 @@
   + https://www.cnblogs.com/jason2013/articles/4375771.html
   
 ## static_cast，dynamic_cast, const_cast, reinterpret_cast
+  + https://www.jianshu.com/p/bfb8df1dd20f
   + https://blog.csdn.net/u014624623/article/details/79837849
 
 ## 不可复制类 && 只能在堆 || 栈上创建的类 && 不可被继承的类
